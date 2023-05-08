@@ -1,2 +1,2 @@
 # disciplina-gcms
-Nesta aula estamos aprendendo somos os usos e comandos úteis no GitHub
+Nesta aula estamos aprendendo os usos e comandos úteis no GitHub
